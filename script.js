@@ -48,6 +48,8 @@
 
 // Desafio 2 - Médio: Números Primos
 
+let numeros = parseInt(prompt('Digite um número inteiro'))
+
 
 
 
