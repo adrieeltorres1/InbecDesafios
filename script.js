@@ -48,17 +48,32 @@
 
 // Desafio 2 - Médio: Números Primos
 
-let numeros = parseInt(prompt('Digite um número inteiro'))
+// function numeroPrimo(numero) {
+//     if (numero <= 1) return false; 
+//     for (let divisor = 2; divisor < numero; divisor++) {
+//         if (numero % divisor === 0) {
+//             return false;
+//         }
+//     }
+//     return true;
+// }
 
+// let numero = parseInt(prompt('Digite um número inteiro'));
 
-
+// if (numeroPrimo(numero)) {
+//     document.write(`Número ${numero} é primo.`);
+// } else {
+//     document.write(`Número ${numero} não é primo.`);
+// }
 
 // Desafio 2 - Médio: Jogo de Adivinhação
 
 // https://lua-adivinha.vercel.app/
 
 
+// Desafio 3 - Difícil: Sequência de Fibonacci com Limite
 
 
+// Desafio 3 - Difícil: Validador de Palíndromo
 
 
