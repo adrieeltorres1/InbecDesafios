@@ -77,10 +77,7 @@
 // Desafio 3 - Difícil: Validador de Palíndromo
 
 // function Ehpalindromo(palavra) {
-//     // Converter a palavra para minúsculas e remove os espaços em branco
 //     let palavraLimpa = palavra.toLowerCase().replace(/\s+/g, '');
-    
-//     // Verificar se a palavra é igual à sua versão invertida
 //     let palavraInvertida = palavraLimpa.split('').reverse().join('');
     
 //     return palavraLimpa === palavraInvertida;
