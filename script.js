@@ -1,17 +1,5 @@
 // Desafio 1 - Fácil: Cálculo de Média Simples
 
-// let notaUm = parseFloat(prompt('Digite a primeira nota de 0 a 10'));
-// let notaDois = parseFloat(prompt('Digite a segunda nota 0 a 10'));
-// let notaTres = parseFloat(prompt('Digite a terceira nota 0 a 10'));
-
-// let media = (notaUm + notaDois + notaTres) / 3;
-
-// if (media >= 7) {
-//     document.write(`Aluno aprovado com média ${media.toFixed()}!`);
-// } else {
-//     document.write(`Aluno reprovado com média ${media.toFixed()}!`);
-// }
-
 // let notaUm = parseFloat(prompt('Digite a primeira nota.'));
 // if (notaUm < 0 || notaUm > 10 ) {
 //     alert('Insira uma nota entre 0 e 10.');
@@ -34,7 +22,7 @@
 //     document.write(`Aluno reprovado com média ${media.toFixed()}.`);
 // }
 
-// Desafio 1 - Fácil: Par ou Ímpar
+// // Desafio 1 - Fácil: Par ou Ímpar
 
 // let numeros = parseInt(prompt('Digite um número inteiro'))
 
