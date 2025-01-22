@@ -73,6 +73,20 @@
 
 // Desafio 3 - Difícil: Sequência de Fibonacci com Limite
 
+let recebeQuantidade = parseInt(prompt('Digite a quantidade da sequência que deseja ver'))
+
+let valorUm = 0
+let ValorDois = 1
+let proximoValor = 0
+
+document.write(valorUm+"\n"+ValorDois)
+
+for(let i=2; i<=recebeQuantidade; i++) {
+    proximoValor = valorUm+ValorDois
+    document.write("\n" + proximoValor)
+    valorUm = ValorDois
+    ValorDois = proximoValor
+}
 
 // Desafio 3 - Difícil: Validador de Palíndromo
 
